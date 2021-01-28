@@ -9,4 +9,4 @@ A few things about me:
 - 🗻 I've worked as a Japanese-to-English patent translator for about a decade.
 - I can't seem to stop using this emoji in everything I write → 🧙‍♂️
 
-The repos below should give you a good feel for where I'm currently at skill-wise and my learning journey so far. Enjoy 🙂
+The repos below should give you a good feel for where I'm currently at skill-wise and my learning journey so far - enjoy 🙂
