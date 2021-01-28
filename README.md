@@ -7,6 +7,6 @@ A few things about me:
 - 🤘 I’ve also dabbled a little with Ruby and quite liked it.
 - 📚 I have an MSc in computer science (but that was a long time ago ... 🐢)
 - 🗻 I've worked as a Japanese-to-English patent translator for about a decade.
-- I'm can't seem to stop using this emoji in everything I write → 🧙‍♂️
+- I can't seem to stop using this emoji in everything I write → 🧙‍♂️
 
 The repos below should give you a good feel for where I'm currently at skill-wise and my learning journey so far. Enjoy 🙂
