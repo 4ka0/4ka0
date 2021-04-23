@@ -2,7 +2,6 @@
 
 A few things about me:
 
-- 🤓 I'm seeking a fresh challenge as a backend engineer.
 - 🌱 I'm currently learning Python, Django, and Django REST framework.
 - 🤘 I’m also using HTML, CSS, JavaScript, Bootstrap, Heroku, AWS (EC2, SES, S3), NGINX, Gunicorn, and PostgreSQL.
 - 📚 I have an MSc in computer science where I used C and Java (but that was a long time ago ... 🐢)
