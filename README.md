@@ -7,7 +7,7 @@
 - I have an MSc in Computer Science where I mainly used C and Java (but that was a long time ago ...)
 - I've worked as a Japanese-to-English patent translator for over a decade.
 
-<br>**Latest translation-related projects:**
+<br>**Translation-related projects:**
 
 - [kikai_to_tmx](https://github.com/4ka0/kikai_to_tmx)<br>
 A command line script for translating a docx file using the DeepL API.<br>
