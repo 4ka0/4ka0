@@ -26,4 +26,4 @@ Command line script for performing QA checks on a tmx file of a Japanese to Engl
 Command line script for checking whether correct terminology is being used in a translation.<br>
 (Uses the spaCy NLP library.)
 
-<br>Other projects more related to **web development** are shown below as pinned projects.
+<br>Other projects more related to **web development** are shown below.
