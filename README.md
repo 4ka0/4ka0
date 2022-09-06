@@ -13,7 +13,7 @@
 A command line script for translating a docx file using the DeepL API.<br>
 The result is output as a tmx file or as a docx file table with source and target segments **fully aligned**.
 
-- [glossary_archive](https://github.com/4ka0/glossary_archive)<br>
+- [honyaku_archive](https://github.com/4ka0/glossary_archive)<br>
 A webapp for archiving and searching your own translations and glossaries.
 
 - [kikai_honyaku](https://github.com/4ka0/kikai_honyaku)<br>
