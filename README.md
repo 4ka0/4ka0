@@ -9,7 +9,7 @@
 
 <br>**Translation-related projects:**
 
-- [kikai_to_tmx](https://github.com/4ka0/kikai_to_tmx)<br>
+- [kikai_to_tmx/docx](https://github.com/4ka0/kikai_to_tmx)<br>
 A command line script for translating a docx file using the DeepL API.<br>
 The result is output as a tmx file or as a docx file table with source and target segments **fully aligned**.
 
