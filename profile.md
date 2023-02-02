@@ -33,9 +33,6 @@ Django webapp for handling user sign in, sign out, register, password change, an
 - [kikai_honyaku](https://github.com/4ka0/kikai_honyaku)<br>
 Django webapp for comparing results from some well-known machine translation APIs.
 
-- [glossary_archive](https://github.com/4ka0/glossary_archive)<br>
-Django webapp for searching content of translations and glossaries.
-
 - [newspaper_project](https://github.com/4ka0/newspaper_project)<br>
 Simple newspaper website built using Django.
 
