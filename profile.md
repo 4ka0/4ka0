@@ -7,19 +7,47 @@
 - I have an MSc in Computer Science where I mainly used C and Java (but that was a long time ago...)
 - I also have some experience with HTML, CSS, JavaScript, Docker, Bootstrap, NGINX, Gunicorn, PostgreSQL, Heroku, and AWS (EC2, SES, S3).
 
-<br>**Some projects (in chronological order):**
+<br>**Rough learning journey in the form of some projects:**
+
+- [django_htmx_books](https://github.com/4ka0/django_htmx_books)<br>
+Django CRUD app for managing a table of books. Built using Django and HTMX.
+
+- [django_bookstore](https://github.com/4ka0/django_for_pros_chapters_4_to_17)<br>
+Simple bookstore built using Django followint the later chapters in Django for Professionals by William Vincent.
 
 - [deepl_to_tmx/docx](https://github.com/4ka0/kikai_to_tmx)<br>
-A command line script that uses the DeepL API to create a fully-aligned bilingual document (tmx or docx file).
+Python script that uses the DeepL API to create a fully-aligned bilingual document (tmx or docx file).
 
 - [glossary_archive](https://github.com/4ka0/glossary_archive)<br>
-A webapp for archiving and searching your own glossaries.
+Django webapp for archiving and searching your own glossaries.
+
+- [simple_inventory](https://github.com/4ka0/simple_inventory)<br>
+Django webapp for managing the stock and sales information for a store.
+
+- [simple_contacts](https://github.com/4ka0/simple_contacts)<br>
+Django webapp for managing contacts (an exercise in uploading and manipulating images).
+
+- [simple_sign_in](https://github.com/4ka0/simple_sign_in)<br>
+Django webapp for handling user sign in, sign out, register, password change, and password reset operations.
 
 - [kikai_honyaku](https://github.com/4ka0/kikai_honyaku)<br>
-A webapp for comparing results from some well-known machine translation APIs.
+Django webapp for comparing results from some well-known machine translation APIs.
+
+- [glossary_archive](https://github.com/4ka0/glossary_archive)<br>
+Django webapp for searching content of translations and glossaries.
+
+- [newspaper_project](https://github.com/4ka0/newspaper_project)<br>
+Simple newspaper website built using Django.
+
+- [django_girls](https://github.com/4ka0/django_girls)<br>
+Blog built following the Django Girls' tutorial.
+
+- [django_portfolio](https://github.com/4ka0/django_portfolio)<br>
+Simple Django web app for displaying a portfolio of projects.
 
 - [honyaku_checker](https://github.com/4ka0/honyaku_checker)<br>
-A command line script for performing QA checks on a Japanese to English translation (tmx file).
+Python script for performing QA checks on a Japanese to English translation (tmx file).
 
 - [term_checker](https://github.com/4ka0/term_checker)<br>
-A command line script for checking whether correct terminology is being used in a translation.
+Python script for checking whether correct terminology is being used in a translation.
+
