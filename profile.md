@@ -2,19 +2,18 @@
 
 <br>A few things about me:
 
-- I enjoy building things using Python and Django.
+- I really enjoy building things using Python and Django.
 - I've worked as a Japanese-to-English patent translator for over a decade.
-- I have an MSc in Computer Science for which I mainly used C and Java (but that was a long time ago...)
-- I also have some experience with HTML, CSS, JavaScript, Bootstrap, NGINX, Gunicorn, PostgreSQL, Heroku, and AWS (EC2, SES, S3).
+- I have an MSc in Computer Science where I mainly used C and Java (but that was a long time ago...)
+- I also have some experience with HTML, CSS, JavaScript, Docker, Bootstrap, NGINX, Gunicorn, PostgreSQL, Heroku, and AWS (EC2, SES, S3).
 
-<br>**Some projects:**
+<br>**Some projects (in chronological order):**
 
 - [deepl_to_tmx/docx](https://github.com/4ka0/kikai_to_tmx)<br>
-A command line script for translating a docx file using the DeepL API.<br>
-The result is output as a tmx file or as a docx file table with source and target segments **fully aligned**.
+A command line script that uses the DeepL API to create a fully-aligned bilingual document (tmx or docx file).
 
 - [glossary_archive](https://github.com/4ka0/glossary_archive)<br>
-A webapp for archiving and searching your own translations and glossaries.
+A webapp for archiving and searching your own glossaries.
 
 - [kikai_honyaku](https://github.com/4ka0/kikai_honyaku)<br>
 A webapp for comparing results from some well-known machine translation APIs.
@@ -23,5 +22,4 @@ A webapp for comparing results from some well-known machine translation APIs.
 A command line script for performing QA checks on a Japanese to English translation (tmx file).
 
 - [term_checker](https://github.com/4ka0/term_checker)<br>
-A command line script for checking whether correct terminology is being used in a translation.<br>
-(Uses the spaCy NLP library.)
+A command line script for checking whether correct terminology is being used in a translation.
