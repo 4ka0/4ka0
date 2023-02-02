@@ -7,4 +7,4 @@
 - I have an MSc in Computer Science for which I mainly used C and Java (but that was a long time ago...)
 - I also have some experience with HTML, CSS, JavaScript, Bootstrap, NGINX, Gunicorn, PostgreSQL, Heroku, and AWS (EC2, SES, S3).
 
-[See more](./profile.md)
+[See more ...](./profile.md)
