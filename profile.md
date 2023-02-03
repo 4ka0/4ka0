@@ -14,19 +14,19 @@ I think these are a good indication of my learning journey so far.
 Django CRUD app for managing a table of books. Built using Django and HTMX.
 
 - [django_bookstore](https://github.com/4ka0/django_for_pros_chapters_4_to_17)<br>
-Simple bookstore built using Django followint the later chapters in Django for Professionals by William Vincent.
+Simple bookstore built using Django following the latter chapters in Django for Professionals by William Vincent.
 
 - [deepl_to_tmx/docx](https://github.com/4ka0/kikai_to_tmx)<br>
 Python script that uses the DeepL API to create a fully-aligned bilingual document (tmx or docx file).
 
 - [glossary_archive](https://github.com/4ka0/glossary_archive)<br>
-Django webapp for archiving and searching your own glossaries.
+Django webapp for archiving and searching your own translations and glossaries.
 
 - [simple_inventory](https://github.com/4ka0/simple_inventory)<br>
 Django webapp for managing the stock and sales information for a store.
 
 - [simple_contacts](https://github.com/4ka0/simple_contacts)<br>
-Django webapp for managing contacts (an exercise in uploading and manipulating images).
+Django webapp for managing contacts (built as an exercise in uploading and manipulating images).
 
 - [simple_sign_in](https://github.com/4ka0/simple_sign_in)<br>
 Django webapp for handling user sign in, sign out, register, password change, and password reset operations.
