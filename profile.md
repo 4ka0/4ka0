@@ -7,7 +7,8 @@
 - I have an MSc in Computer Science where I mainly used C and Java (but that was a long time ago...)
 - I also have some experience with HTML, CSS, JavaScript, Docker, Bootstrap, NGINX, Gunicorn, PostgreSQL, Heroku, and AWS (EC2, SES, S3).
 
-<br>**Rough learning journey in the form of some projects:**
+Below are some of my projects listed in order of newer to older.<br>
+I think these are a good indication of my learning journey so far.
 
 - [django_htmx_books](https://github.com/4ka0/django_htmx_books)<br>
 Django CRUD app for managing a table of books. Built using Django and HTMX.
