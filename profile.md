@@ -16,6 +16,9 @@ Django app for archiving and searching translations and glossaries.
 - [honyaku_assist](https://github.com/4ka0/honyaku_assist)<br>
 Django app for comparing translations from DeepL and Google Translate.
 
+- [some_scripts](https://github.com/4ka0/scripts)<br>
+Some scripts that I find useful in day-to-day translation work.
+
 - [django_htmx_books](https://github.com/4ka0/django_htmx_books)<br>
 Django CRUD app for managing a table of books. Built using Django and HTMX.
 
