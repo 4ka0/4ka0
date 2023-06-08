@@ -10,6 +10,9 @@
 Below are some of my projects listed in order of newer to older.<br>
 I think these are a good indication of my learning journey so far.
 
+- [honyaku_archive](https://github.com/4ka0/honyaku_archive)<br>
+Django app for archiving and searching translations and glossaries.
+
 - [honyaku_assist](https://github.com/4ka0/honyaku_assist)<br>
 Django app for comparing translations from DeepL and Google Translate.
 
@@ -23,7 +26,7 @@ Simple bookstore built using Django following the latter chapters in Django for 
 Python script that uses the DeepL API to create a fully-aligned bilingual document (tmx or docx file).
 
 - [glossary_archive](https://github.com/4ka0/glossary_archive)<br>
-Django webapp for archiving and searching your own translations and glossaries.
+Django webapp for archiving and searching your own glossaries.
 
 - [simple_inventory](https://github.com/4ka0/simple_inventory)<br>
 Django webapp for managing the stock and sales information for a store.
