@@ -10,6 +10,9 @@
 Below are some of my projects listed in order of newer to older.<br>
 I think these are a good indication of my learning journey so far.
 
+- [honyaku_assist](https://github.com/4ka0/honyaku_assist)<br>
+Django app for comparing translations from DeepL and Google Translate.
+
 - [django_htmx_books](https://github.com/4ka0/django_htmx_books)<br>
 Django CRUD app for managing a table of books. Built using Django and HTMX.
 
