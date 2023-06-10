@@ -16,6 +16,9 @@ Django app for archiving and searching translations and glossaries.
 - [honyaku_assist](https://github.com/4ka0/honyaku_assist)<br>
 Django app for comparing translations from DeepL and Google Translate.
 
+- [deepl_align/docx](https://github.com/4ka0/deepl_align)<br>
+Python script that uses the DeepL API to create a fully-aligned bilingual document (tmx or docx file).
+
 - [some_scripts](https://github.com/4ka0/scripts)<br>
 Some scripts that I find useful in day-to-day translation work.
 
@@ -24,9 +27,6 @@ Django CRUD app for managing a table of books. Built using Django and HTMX.
 
 - [django_bookstore](https://github.com/4ka0/django_for_pros_chapters_4_to_17)<br>
 Simple bookstore built using Django following the latter chapters in Django for Professionals by William Vincent.
-
-- [deepl_to_tmx/docx](https://github.com/4ka0/kikai_to_tmx)<br>
-Python script that uses the DeepL API to create a fully-aligned bilingual document (tmx or docx file).
 
 - [glossary_archive](https://github.com/4ka0/glossary_archive)<br>
 Django webapp for archiving and searching your own glossaries.
