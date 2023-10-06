@@ -19,9 +19,6 @@ Django app for comparing translations from DeepL and Google Translate.
 - [deepl_align/docx](https://github.com/4ka0/deepl_align)<br>
 Python script that uses the DeepL API to create a fully-aligned bilingual document (tmx or docx file).
 
-- [some_scripts](https://github.com/4ka0/scripts)<br>
-Some scripts that I find useful in day-to-day translation work.
-
 - [django_htmx_books](https://github.com/4ka0/django_htmx_books)<br>
 Django CRUD app for managing a table of books. Built using Django and HTMX.
 
